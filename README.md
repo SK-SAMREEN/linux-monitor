@@ -65,15 +65,7 @@ docker build -t linux-monitor .
 * Demonstration of containerized system utilities
 ## Author
 
-Shaik Samreen
+Shaik Samreen - 
 DevOps & Cloud Enthusiast
 
 
----
-
-## ✅ After pasting (VERY IMPORTANT)
-
-```bash
-git add README.md
-git commit -m "Add professional README documentation"
-git push origin main
