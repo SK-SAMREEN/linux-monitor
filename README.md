@@ -67,5 +67,3 @@ docker build -t linux-monitor .
 
 Shaik Samreen - 
 DevOps & Cloud Enthusiast
-
-
