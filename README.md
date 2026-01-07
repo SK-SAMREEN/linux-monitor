@@ -49,21 +49,6 @@ linux-monitor/
 ## Build the Docker Image
 Run the following command inside the project directory:
 
-```
-bash
+```bash
 docker build -t linux-monitor .
 
-```
-## Use Cases
-
-* Learning Linux and Docker fundamentals
-
-* DevOps internship preparation
-
-* Base project for adding logging and automation
-
-* Demonstration of containerized system utilities
-## Author
-
-Shaik Samreen - 
-DevOps & Cloud Enthusiast
